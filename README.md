@@ -52,4 +52,4 @@ The source code architecture is structured to support Amazon's `kindlegen` frame
 
 * **Copyright:** © 2026 Bondhon Das. All rights reserved.
 * **Usage License:** This source configuration and compiled database are provided strictly for educational and personal deployment use on authorized e-readers. Unauthorized commercial distribution, automated database extraction, or mirroring of this project file without explicit written consent is strictly prohibited.
-![Book Cover](cover.png)
+![Book Cover](cover.jpg)
